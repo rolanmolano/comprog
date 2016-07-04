@@ -8,8 +8,8 @@ float in,cm;
 int a=0;
 
 
-cout<<"a.What is the Sum"<<endl;
-cout<<"b.What is the Product"<<endl;
+//cout<<"a.What is the Sum"<<endl;
+//cout<<"b.What is the Product"<<endl;
 cout<<"c.what is the qoutient"<<endl;
 cout<<"d. Swapping"<<endl;
 cout<<"e. If else (even or odd)"<<endl;
